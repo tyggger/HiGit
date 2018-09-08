@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/higit.iml" filepath="$PROJECT_DIR$/higit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HiGit.iml" filepath="$PROJECT_DIR$/HiGit.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HiGit:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="HiGit.war">
+      <element id="artifact" artifact-name="HiGit:war exploded" />
+    </root>
+  </artifact>
+</component>
